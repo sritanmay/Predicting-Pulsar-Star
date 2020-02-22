@@ -8,7 +8,7 @@ HTRU 2 Summary:
 16,259 negative examples.
 Source: https://archive.ics.uci.edu/ml/datasets/HTRU2
 
-Attributes are : 
+Attributes in dataset are : 
 Mean of the integrated profile, 
 Standard deviation of the integrated profile, 
 Excess kurtosis of the integrated profile, 
