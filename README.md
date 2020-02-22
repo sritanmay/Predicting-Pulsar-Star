@@ -1,5 +1,6 @@
 # Predicting-Pulsar-Star
 Machine learning Python script implementing Support Vector Classifier using Gaussian Kernel. This model will predict whether the observed star is Pulsar or not.
+
 HTRU2 dataset from kaggle.com is used.
 HTRU 2 Summary:
 17,898 total examples.
