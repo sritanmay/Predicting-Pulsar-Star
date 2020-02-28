@@ -19,8 +19,6 @@ Excess kurtosis of the DM-SNR curve,
 Skewness of the DM-SNR curve, 
 Class.
 
-![](Figure_1.png)
-
 ```
 Confusion Report
               precision    recall  f1-score   support
@@ -40,3 +38,5 @@ Confusion Matrix
 [[3287   19]
  [  43  231]]
 ```
+
+![](Figure_1.png)
